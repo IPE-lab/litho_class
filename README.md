@@ -25,9 +25,9 @@ The sandy conglomerate reservoirs in Karamay are characterized by diverse lithol
 ***
 ## How to use the project
 #### 1、**Example.xls** is the training set. It is a part of logging data from a well in the Mahu area of Xinjiang, with 1242 lines of data.
----
+
 #### 2、**Example test.xls** is the test set. It is a part of the well logging data from a well in the Mahu area of Xinjiang, with 360 lines of data.
----
+
 #### 3、**The header of the .xls files**
 |Abbreviated noun|Implication|
 | ---- | ---- |
@@ -42,13 +42,12 @@ The sandy conglomerate reservoirs in Karamay are characterized by diverse lithol
 |DEN |density |
 |CNL| compensated neutron logging|
 |R| lithology|
----
+
 #### 4、**Cplot2023. py** is designed for Function 1. It can generate a conventional cross plot of logging data. Users can specify logging data intervals to identify different lithologies.
 
----
+
 
 #### 5、**PCA2023. py** is designed for Function 2. It can generate a cross plot of principal components of logging data. Users can specify logging data intervals to identify different lithologies.
 
----
 
 #### 6、**Rf2023. py** is designed for Function 3. It can oversample the minority lithology and identify lithology using random forest algorithm.

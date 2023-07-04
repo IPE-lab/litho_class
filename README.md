@@ -1,5 +1,13 @@
 # **Intelligent lithologic identification**
-
+## Running screenshots show
+- **cplot2023**
+  - <img src="img/cplot2023/Figure_1.png" width="200" /><img src="img/cplot2023/Figure_2.png" width="200" /><img src="img/cplot2023/Figure_3.png" width="200" />
+  - <img src="img/cplot2023/Figure_4.png" width="200" /><img src="img/cplot2023/Figure_5.png" width="200" /><img src="img/cplot2023/Figure_6.png" width="200" />
+- **pca2023**
+  - <img src="img/pca2023/Figure_1.png" width="200" /><img src="img/pca2023/Figure_2.png" width="200" /><img src="img/pca2023/Figure_3.png" width="200" />
+- **results**
+  - <img src="img/results.png" width="400" />
+***
 ## Paper Support
 - Original information: Intelligent lithologic identification of sandy conglomerate reservoirs in District No.7 of Karamay oilfield
 - Recruitment Journal: Journal of Shenzhen University Science and Engineering 
